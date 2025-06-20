@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    "Week1_DesignPrinciples&Patterns/1_Implementing the Singleton Pattern/Code",
+    "Week1_DesignPrinciples&Patterns/2_Implementing the Factory Method Pattern/Code"
+  ],
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "java.project.outputPath": "bin"
+}
